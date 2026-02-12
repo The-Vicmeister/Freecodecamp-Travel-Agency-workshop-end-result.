@@ -11,18 +11,17 @@
 <body>
  <h1>
    Here goes the info about the random travel agency!
-   </h1>
+  </h1>
    <p>So, this is a travel agency to use when you are indifferent or undecided about your destination.</p>
-   
-     <h2>Packages</h2> 
-    <p>Here are your options, basically:</p>
+  <h2>Packages</h2> 
+   <p>Here are your options, basically:</p>
      <ul>
         <li>
           <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
-      </li>
-      <li>
+        </li>
+        <li>
           <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
-      </li>
+        </li>
      </ul>
  
  <h2>Top Itineraries</h2>
