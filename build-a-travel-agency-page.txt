@@ -1,0 +1,48 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="description" content="Come visit any of these random places!">
+  <title>Travel Agency Page></title>
+</head>
+
+<body>
+ <h1>
+   Here goes the info about the random travel agency!
+   </h1>
+   <p>So, this is a travel agency to use when you are indifferent or undecided about your destination.</p>
+   
+     <h2>Packages</h2> 
+    <p>Here are your options, basically:</p>
+     <ul>
+        <li>
+          <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+      </li>
+      <li>
+          <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+      </li>
+     </ul>
+ 
+ <h2>Top Itineraries</h2>
+
+  <figure><a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="image 1"></a>
+  <figcaption>Go to China and then Germany, for some reason. Here's a photo of Italy, though.</figcaption> 
+  </figure>
+
+  <figure><a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="image 2"></a>
+  <figcaption>Go to Mexico and then Canada. Or vice versa.</figcaption>       
+  </figure>
+
+  <figure><a href="https://www.freecodecamp.org/learn" target="_blank">
+<img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="image 3"></a>
+<figcaption>Run a lap around the airport and get on the first plane departing. Here's a pic of an ocean.</figcaption>
+</figure>
+</body>
+</html>
+
+** end of index.html **
+
